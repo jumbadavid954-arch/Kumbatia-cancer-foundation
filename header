@@ -1,0 +1,19 @@
+<header class="hero">
+  <div class="overlay">
+    <h1>Kumbatia Cancer Foundation</h1>
+    <p>Giving Hope. Saving Lives.</p>
+
+    <nav>
+      <a href="#about">About</a>
+      <a href="#mission">Mission</a>
+      <a href="#support">Support</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </div>
+
+  <div class="slider">
+    <img src="https://images.unsplash.com/photo-1580281657527-47d9a8c0a7b2" class="slide active">
+    <img src="https://images.unsplash.com/photo-1576765607924-b3b83b8e92b9" class="slide">
+    <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b" class="slide">
+  </div>
+</header>
